@@ -36,7 +36,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/astrohope
   - icon: brands/linkedin
-    url: https://www.linkedin.com/andhope
+    url: https://www.linkedin.com/in/andhope
 
 --- 
 
