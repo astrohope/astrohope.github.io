@@ -40,6 +40,4 @@ profiles:
 
 ## About Me
 
-I am a junior at the University of Michigan studying Honors Mathematics and Honors Physics. I work in Michael Schubnell's lab on Spec-S5 fiber positioner R&D. I am currently spending my summer at LBNL working with David Schlegel, Nicholas Wenner, and Joe Silber on some other Spec-S5 positioner R&D, and I work with Julien Guy on analysis of DESI positioner FRD. I am interested in a billion different things in physics and mathematics and I'm always open to an interesting discussion. 
-
-Outside of academics, I am the Vice President of the University of Michigan Society of Physics Students, and served as Tutoring Chair last year. I am quite passionate about teaching and STEM education and hope to teach in some capacity myself someday. I also play rugby for UMRFC.
+I am a junior at the University of Michigan studying Honors Mathematics and Honors Physics.
