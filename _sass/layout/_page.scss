@@ -67,11 +67,11 @@
   }
 
   a {
-    color: #f5f7fa;
+    color: #5da9ff;
     text-decoration: underline;
 
     &:hover {
-      color: #ffffff;
+      color: #7ebcff;
       text-decoration: underline;
 
       img {
@@ -89,18 +89,6 @@
       & + p {
         text-indent: $indent-var;
         margin-top: -($indent-var);
-      }
-    }
-  }
-
-  a {
-    text-decoration: underline;
-
-    &:hover {
-      text-decoration: underline;
-
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
       }
     }
   }
