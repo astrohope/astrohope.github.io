@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Andrew Hope"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,6 +13,6 @@ I was awarded the Walter Gray Fellowship by my university to spend this summer a
 
 I have my research projects listed on the "Projects" page, if you are interested in learning more about what I get up to. Please see my complete CV for a concise review of my experience.
 
-This coming fall semester, I am taking Quantum Field Theory 1 (graduate, Peskin and Schroeder), Statistical Mechanics, and Electrodynamics and Classical Fields 1 (graduate, Zangwill and Jackson).
+This coming fall semester, I am taking Quantum Field Theory 1 (Peskin & Schroeder), Statistical Mechanics (Adkins, Kittel & Kroemer), and Electrodynamics and Classical Fields 1 (Zangwill, Jackson).
 
 I am very excited about cosmology, and physics as a whole really. I plan on pursuing experimental cosmology in graduate school, and I hope to stay involved with all the great experiments that are underway. If you would like to get in contact, please email me--I am very responsive!

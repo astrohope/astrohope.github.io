@@ -12,7 +12,7 @@ site_theme               : "air" # The available themes options are "default", "
 title                    : "Andrew Hope"
 title_separator          : "-"
 name                     : &name "Andrew Hope"
-description              : &description "Andrew's website"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Andrew's Academic Website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://astrohope.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Andrew Hope"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student studying physics and mathematics"
+  bio              : "Undergraduate studying Physics and Mathematics | Cosmology"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
   uri              : # URL
