@@ -2,15 +2,11 @@
   "basics": {
     "name": "Andrew Hope",
     "email": "andhope@umich.edu",
-    "phone": "",
-    "website": "",
-    "summary": "",
+    "website": "astrohope.github.io",
+    "phone": "518-769-4183",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "city": "Ann Arbor",
+      "countryCode": "US"
     }
 }
 }
