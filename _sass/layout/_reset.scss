@@ -7,7 +7,10 @@
 html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
-  background-color: var(--global-bg-color);
+  background-image: url(../images/DESI-map-noirlab2609b-web.jpg);
+  background-size: 100%;
+  background-attachment: fixed;
+  background-position: center;
   font-size: 16px;
 
   @include breakpoint($medium) {
