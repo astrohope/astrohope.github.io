@@ -8,7 +8,7 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: #000;
-  background-image: url('/images/DESI-map-noirlab2609b-web.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/images/DESI-map-noirlab2609b-web.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -28,6 +28,7 @@ html {
 body {
   margin: 0;
   background: transparent;
+  color: #fff;
 }
 
 /* Selected elements */

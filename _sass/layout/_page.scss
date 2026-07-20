@@ -49,19 +49,35 @@
 }
 
 .page__content {
-  background-color: rgba(245, 245, 245, 0.72);
+  background-color: rgba(0, 0, 0, 0.45);
   backdrop-filter: blur(4px);
   border-radius: 0.5rem;
   padding: 1.5rem;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  color: #fff;
 
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 1px solid var(--global-border-color);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   }
 
   p, li, dl {
     font-size: 1em;
+    color: #fff;
+  }
+
+  a {
+    color: #f5f7fa;
+    text-decoration: underline;
+
+    &:hover {
+      color: #ffffff;
+      text-decoration: underline;
+
+      img {
+        box-shadow: 0 0 10px rgba(#000, 0.25);
+      }
+    }
   }
 
   /* paragraph indents */
