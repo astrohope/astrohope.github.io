@@ -7,15 +7,9 @@
     "location": {
       "city": "Ann Arbor",
       "countryCode": "US"
-    }
-},
-"education": [
-    {
-      "institution": "University of Michigan",
-      "area": "B.S in Physics and Mathematics (Honors)",
-      "endDate": "2027"
-    }
-  ],
+    },
+    "summary": "I have won over $74,000 in scholarships, awards, and fellowships for my academic and research work in undergrad."
+  },
 "teaching": [
     {
       "course": "Walter Gray Fellowship",
