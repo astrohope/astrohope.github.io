@@ -9,12 +9,13 @@
       "countryCode": "US"
     }
 },
-"education":
+"education": [
     {
       "institution": "University of Michigan",
       "area": "B.S in Physics and Mathematics (Honors)",
       "endDate": "2027"
-},
+    }
+  ],
 "teaching": [
     {
       "course": "Walter Gray Fellowship",
