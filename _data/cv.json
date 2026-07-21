@@ -8,5 +8,43 @@
       "city": "Ann Arbor",
       "countryCode": "US"
     }
-}
+},
+"education":
+    {
+      "institution": "University of Michigan",
+      "area": "B.S in Physics and Mathematics (Honors)",
+      "endDate": "2027"
+},
+"teaching": [
+    {
+      "course": "Walter Gray Fellowship",
+      "institution": "University of Michigan Physics Department",
+      "date": "2026",
+      "description": "This award was established in honor of Walter Gray, a renowned Physicist and former University of Michigan Professor. This fellowship is intended to support undergraduates for research at Fermilab, and I am the recipient in its inaugural year."
+    },
+    {
+      "course": "DESI Summer Fellowship",
+      "institution": "Dark Energy Spectroscopic Instrument (DESI) Collaboration",
+      "date": "2026",
+      "description": "A Summer Research Institute for undergraduate researchers on DESI this summer, intended to bring together student DESI Fellows together across institutions to share their work and research more broadly. This is the inaugural cohort of Fellows."
+    },
+    {
+      "course": "Ralph B. Bodine Scholarship",
+      "institution": "University of Michigan Physics Department",
+      "date": "2025",
+      "description": "The scholarship provides annual support to a junior-standing student with proven academic ability in the Department of Physics."
+    },
+    {
+      "course": "Otho Lyle Tiffany and Mary Lois Tiffany Fellowship",
+      "institution": "University of Michigan Physics Department",
+      "date": "2024",
+      "description": "This prize is for non-graduating physics students who show great promise and progress in their academic efforts. This award is given to students based on faculty nominations and the deliberation of the Undergraduate Awards Committee."
+    },
+    {
+      "course": "Walter Grishkot Memorial Scholarship",
+      "institution": "Grishkot Foundation",
+      "date": "2023",
+      "description": "Scholarship recipients demonstrate academic success, school and community involvement, leadership skills, a strong work ethic and exhibit creative thinking."
+    }
+  ]
 }
