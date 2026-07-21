@@ -13,10 +13,8 @@ For my honors thesis, I am investigating the effects of baryon-informed error pa
 
 I also have spent a majority of my university time working with [Michael Schubnell](https://inspirehep.net/authors/989667) on fun, novel, bending-spine fiber positioner robotics. I will continue to work with him on focal ratio degradation in the fall. 
 
-I have been the [recipient](https://lsa.umich.edu/physics/undergraduate-students/scholarships-and-awards.html) of both the Ralph B. Bodine Scholarship and Otho Lyle Tiffany & Mary Lois Tiffany Fellowship for my research and academics at Michigan. I am also a DESI Summer Fellow.
-
 I was awarded the Walter Gray Fellowship by my university to spend this summer at Fermilab, working with [Guillermo Fernandez-Moroni](https://inspirehep.net/authors/1684137) on Skipper CCDs. This project is co-advised by [Alex Drlica-Wagner](https://kadrlica.github.io/). I spent Summer 2025 at Lawrence Berkeley National Lab through the Department of Energy SULI program, where I worked on fiber positioner robots for Spec-S5 in [David Schlegel](https://inspirehep.net/authors/1020065)'s group.
 
-I have my research projects listed on the "Projects" page, if you are interested in learning more about what I get up to. Please see my complete CV for a concise review of my experience.
+I have my research projects listed on the "Projects" page, if you are interested in learning more about what I get up to. Please see my CV for a concise review of my experience, awards, etc.
 
 This coming fall semester, I am taking Quantum Field Theory 1 (Peskin & Schroeder), Statistical Mechanics (Adkins, Kittel & Kroemer), and Electrodynamics and Classical Fields 1 (Zangwill, Jackson).
