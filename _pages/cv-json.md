@@ -10,7 +10,3 @@ redirect_from:
 {% include base_path %}
 
 {% include cv-template.html %}
-
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/Andrew_Hope_CV.pdf" class="btn btn--primary">Download CV as PDF</a>
-</div>
