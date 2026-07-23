@@ -2,11 +2,10 @@
   "basics": {
     "name": "Andrew Hope",
     "email": "andhope@umich.edu",
-    "website": "astrohope.github.io",
     "phone": "518-769-4183",
     "location": {
       "city": "Ann Arbor",
-      "countryCode": "US"
+      "countryCode": "MI"
     },
     "summary": "I am a rising senior at the University of Michigan, studying physics and mathematics. I am pursuing an honors thesis in cosmology theory, and I also have done quite a bit of research in instrumentation--including at Fermilab and LBNL. I am the co-president of the UM Society of Physics Students, and I have won over $74,000 in scholarships, awards, and fellowships for my academic and research work in undergrad."
   }
