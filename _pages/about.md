@@ -18,7 +18,7 @@ I also have spent a ton of time working with [Michael Schubnell](https://inspire
 
 I was awarded the Walter Gray Fellowship by my university to spend this summer at Fermilab, working with [Guillermo Fernandez-Moroni](https://inspirehep.net/authors/1684137) on Skipper CCDs. This project is co-advised by [Alex Drlica-Wagner](https://kadrlica.github.io/). I spent Summer 2025 at Lawrence Berkeley National Lab through the Department of Energy SULI program, where I worked on fiber positioner robots for Spec-S5 in [David Schlegel](https://inspirehep.net/authors/1020065)'s group.
 
-I have my research projects listed on the "Projects" page, if you are interested in learning more about what I get up to. Please see my CV for a concise review of my experience, awards, etc.
+Please see my CV for a concise review of my experience, awards, etc.
 
 Upcoming Coursework
 =======
